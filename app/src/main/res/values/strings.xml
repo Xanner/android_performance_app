@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test wydajności aplikacji Android</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed posuere tortor.</string>
+    <string name="avatar_description">Avatar image</string>
+</resources>
